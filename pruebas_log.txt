@@ -1,0 +1,34 @@
+=== CP-01 ciudad duplicada ===
+Opcion: Nombre de la ciudad:   [OK] Ciudad registrada.
+Opcion: Nombre de la ciudad:   [!] La ciudad 'Bogota' ya existe. No se creo nada.
+Opcion:   - Bogota
+  Ciudades:     1
+  Conexiones:   0
+  Pasajeros:    0
+
+=== CP-02 eliminar pasajero inexistente ===
+Opcion: ID del pasajero:   [!] El pasajero no existe. No se modifico nada.
+
+=== CP-03 atender cola vacia ===
+Opcion:   [!] La cola esta vacia. No hay nada que atender.
+
+=== CP-04 distancia negativa ===
+Opcion: Nombre de la ciudad:   [OK] Ciudad registrada.
+Opcion: Nombre de la ciudad:   [OK] Ciudad registrada.
+Opcion: Ciudad A: Ciudad B: Distancia (km):   [!] La distancia debe ser mayor que 0.
+  Ciudades:     2
+  Conexiones:   0
+  Pasajeros:    0
+
+=== CP-05 eliminar ciudad conectada ===
+Opcion: Nombre de la ciudad:   [OK] Ciudad registrada.
+Opcion: Nombre de la ciudad:   [OK] Ciudad registrada.
+Opcion: Ciudad A: Ciudad B: Distancia (km):   [OK] Conexion creada.
+Opcion: Nombre de la ciudad:   [OK] Ciudad y sus conexiones eliminadas.
+Opcion: Ciudad:   Vecinos de A:
+
+=== CP-06 letras en campo numerico ===
+Opcion:   [!] 'abc' no es un numero. Intenta de nuevo.
+Opcion:   [!] 'xyz' no es un numero. Intenta de nuevo.
+Opcion: ID del pasajero:   [!] 'hola' no es un numero. Intenta de nuevo.
+
